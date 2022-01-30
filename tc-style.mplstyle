@@ -8,6 +8,7 @@ axes.labelpad : 10
 axes.titlepad : 20
 axes.xmargin : 0.05
 axes.ymargin : 0.05
+axes.prop_cycle: cycler('color', ['f0484e', 'FEC934', 'FFB25B'])
 figure.dpi : 200
 figure.facecolor : F5F5F5
 figure.figsize : (8, 4)
